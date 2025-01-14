@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|c:\\data\\dotnet project by bahvesh\\transithivef\\transithive\\transithive\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C5C8FF-BA3E-46E8-B38F-B26C32C3AA9C}|TransitHive\\TransitHive.csproj|solutionrelative:transithive\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TransitHive\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAxwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:49:10.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Services\\AuthService.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Services\\AuthService.cs",
+              "RelativeToolTip": "TransitHive\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:49:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingItem.cs",
+              "DocumentMoniker": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Models\\BookingItem.cs",
+              "RelativeDocumentMoniker": "TransitHive\\Models\\BookingItem.cs",
+              "ToolTip": "C:\\data\\Dotnet Project By Bahvesh\\TransitHiveF\\TransitHive\\TransitHive\\Models\\BookingItem.cs",
+              "RelativeToolTip": "TransitHive\\Models\\BookingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:48:10.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
